@@ -1,0 +1,2 @@
+c:\users\алексей\documents\visual studio 2013\Projects\SPP lab1\SPP lab1\bin\Debug\SPP lab1.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\SPP-lab1-master\SPP lab1\bin\Debug\SPP lab1.exe.config
